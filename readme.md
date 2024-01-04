@@ -3,7 +3,7 @@
 # :cloud: GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=whymind&bg_color=50,BFBFBF,FFFFFF,BFBFBF&theme=graywhite&show_icons=true)
 
-# :rice_ball: Social Networks
+# 🌪️ Social Networks
 ![telegram](https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram&link=https%3A%2F%2Ft.me%2Fwhxmxnd)
 ![discord](https://img.shields.io/badge/discord-white?style=for-the-badge&logo=discord&link=https%3A%2F%2Fdiscord.com%2Fusers%2F536788591628517396)
 
