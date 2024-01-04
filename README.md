@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&center=true&vCenter=true&width=520&lines=Найт+Хуесос)](https://git.io/typing-svg)
-//![image](https://github.com/NITEOFF/niteoff/blob/main/header%20(2).png?raw=true)
 
 # :cloud: GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=whymind&theme=graywhite&show_icons=true)
