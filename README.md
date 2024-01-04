@@ -1,8 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&center=true&vCenter=true&width=520&lines=Найт+Хуесос)](https://git.io/typing-svg)
+[![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&center=true&vCenter=true&width=520&lines=Найт+Хуесос)](https://git.io/typing-svg)
 
 # :cloud: GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=whymind&theme=graywhite&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=whymind&theme=white)
+![](https://github-readme-stats.vercel.app/api?username=whymind&theme=graywhite&show_icons=true)
 
 # :ghost: Tech Stacks
 ![typescript](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript)
