@@ -1,7 +1,7 @@
 ![image](https://github.com/whymind/whymind/blob/main/profile/BANNER.gif?raw=true)
 
 # :cloud: GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=whymind&theme=graywhite&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=whymind&bg_color=50,BFBFBF,FFFFFF,BFBFBF&theme=graywhite&show_icons=true)
 
 # :ghost: Tech Stacks
 ![typescript](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript)
