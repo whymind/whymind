@@ -2,6 +2,7 @@
 
 # :cloud: GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=whymind&theme=graywhite&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=whymind&theme=white)
 
 # :ghost: Tech Stacks
 ![typescript](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript)
