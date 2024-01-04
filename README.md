@@ -1,4 +1,4 @@
-[![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&center=true&vCenter=true&width=520&lines=Найт+Хуесос)](https://git.io/typing-svg)
+![image](https://github.com/whymind/whymind/blob/main/profile/BANNER.gif?raw=true)
 
 # :cloud: GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=whymind&theme=graywhite&show_icons=true)
