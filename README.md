@@ -1,7 +1,7 @@
 ![image](https://github.com/NITEOFF/niteoff/blob/main/header%20(2).png?raw=true)
 
 # :cloud: Stats
-![mind GitHub stats](https://github-readme-stats.vercel.app/api?username=whymind&theme=graywhite&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=whymind&theme=graywhite&show_icons=true)
 
 # :ghost: Tech Stacks
 ![typescript](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript)
