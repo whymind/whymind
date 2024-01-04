@@ -12,5 +12,3 @@
 ![mongodb](https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=mongodb)
 ![javascript](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript) 
 ![react](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react)
-![npm](https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm)
-![css](https://img.shields.io/badge/Css-white?style=for-the-badge&logo=css)
